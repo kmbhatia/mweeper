@@ -1,1 +1,3 @@
 # mweeper
+
+Python based Minesweeper :)
