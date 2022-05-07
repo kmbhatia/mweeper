@@ -1,3 +1,3 @@
 # mweeper
 
-Python based Minesweeper :)
+Python OOPs based Minesweeper Game :)
